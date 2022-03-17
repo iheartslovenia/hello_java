@@ -1,6 +1,11 @@
 # hello_java
-Practice English. Suggest changes. Try to write in English that is grammatically correct.
+//English for software testers and programmers
 
-We will practice with me writing code and you correcting me. You may explain to me what I did wrong and how to correct it.
+Are you a programmer or software tester learning English? Use this to practice English.
 
-Do your best with English. I will respond with corrections.
+1. Look at my code. 
+2. Suggest changes. 
+3. Write in English. 
+4. Review my comments.
+
+
